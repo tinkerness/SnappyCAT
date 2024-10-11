@@ -78,7 +78,9 @@ To get started with **SnappyCAT**, ensure that you have the following installed 
 ## Demo
 The following demo video showcases SnappyCAT in action. 
 
-<video src="results/demo.mp4" controls></video>
+<!-- <video src="results/demo.mp4" controls></video> -->
+
+[demo video](https://github.com/user-attachments/assets/0d735b28-e4da-4f83-82b0-3cc5209650e0)
 
 
 ## Contributing
@@ -93,4 +95,4 @@ If you’re interested in contributing, please follow these guidelines:
 If you have any questions or would like to collaborate on the project, feel free to reach out!
 
 - Email: [anittasiby002@gmail.com](mailto:anittasiby002@gmail.com)
-- GitHub: [tinkeress](https://github.com/tinkerness)
+- GitHub: [tinkerness](https://github.com/tinkerness)
